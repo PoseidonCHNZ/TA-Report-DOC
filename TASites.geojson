@@ -1,0 +1,736 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "properties": {
+        "Equipment": 100043439,
+        "Region": "NSI",
+        "Destination": "Ship Cove",
+        "InstallLocation": "Historic Ship Cove / Meretoto",
+        "datelast": "2020-10-28",
+        "datefirst": "2008-06-02",
+        "DestinationWeb": "ShipCove"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.2346, -41.0948]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "Equipment": 100055887,
+        "Region": "CNI",
+        "Destination": "Tongariro Alpine Crossing",
+        "InstallLocation": "Tongariro Xing Mangatepopo Tk",
+        "datelast": "2020-11-01",
+        "datefirst": "2008-06-10",
+        "DestinationWeb": "TongariroAlpineCrossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.6028, -39.1432]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "properties": {
+        "Equipment": 100057063,
+        "Region": "SSI",
+        "Destination": "Tuatapere walks and picnic area",
+        "InstallLocation": "Round Hill Walking Track",
+        "datelast": "2020-07-20",
+        "datefirst": "2008-05-28",
+        "DestinationWeb": "Tuataperewalksandpicnicarea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [167.8325, -46.3317]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "properties": {
+        "Equipment": 100057092,
+        "Region": "AKL",
+        "Destination": "Warkworth backcountry",
+        "InstallLocation": "",
+        "datelast": "2009-07-21",
+        "datefirst": "2007-11-28",
+        "DestinationWeb": "Warkworthbackcountry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.6203, -36.3597]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "properties": {
+        "Equipment": 100057094,
+        "Region": "SSI",
+        "Destination": "Bluff Hill/Motupohue",
+        "InstallLocation": "Foveaux Walkway",
+        "datelast": "2020-08-12",
+        "datefirst": "2008-05-25",
+        "DestinationWeb": "BluffHillMotupohue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [168.353, -46.6175]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "properties": {
+        "Equipment": 100057473,
+        "Region": "NNI",
+        "Destination": "Bream Bay/Mangawhai campsite and walks",
+        "InstallLocation": "Mangawhai Walkway",
+        "datelast": "2020-11-12",
+        "datefirst": "2007-06-12",
+        "DestinationWeb": "BreamBayMangawhaicampsiteandwalks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.5908, -36.0698]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "properties": {
+        "Equipment": 100065282,
+        "Region": "NSI",
+        "Destination": "Queen Charlotte Track",
+        "InstallLocation": "Quee Charlotte Tk, Ship Cove",
+        "datelast": "2020-11-12",
+        "datefirst": "2008-06-02",
+        "DestinationWeb": "QueenCharlotteTrack"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.234, -41.0948]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "properties": {
+        "Equipment": 100065283,
+        "Region": "NSI",
+        "Destination": "Queen Charlotte Track",
+        "InstallLocation": "Quee Charlotte Tk, The Pines",
+        "datelast": "2020-10-29",
+        "datefirst": "2008-06-04",
+        "DestinationWeb": "QueenCharlotteTrack"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.1837, -41.1103]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "properties": {
+        "Equipment": 100065284,
+        "Region": "NSI",
+        "Destination": "Queen Charlotte Track",
+        "InstallLocation": "Quee Charlotte Tk, Torea",
+        "datelast": "2020-11-05",
+        "datefirst": "2008-06-03",
+        "DestinationWeb": "QueenCharlotteTrack"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.0344, -41.2073]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "properties": {
+        "Equipment": 100065285,
+        "Region": "NSI",
+        "Destination": "Queen Charlotte Track",
+        "InstallLocation": "Quee Charlotte Tk, Anakiwa",
+        "datelast": "2020-09-12",
+        "datefirst": "2008-06-04",
+        "DestinationWeb": "QueenCharlotteTrack"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.9307, -41.2608]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "properties": {
+        "Equipment": 100073031,
+        "Region": "CNI",
+        "Destination": "Tongariro Alpine Crossing",
+        "InstallLocation": "Tongariro Xing, Ketetahi Track",
+        "datelast": "2020-11-12",
+        "datefirst": "2008-06-19",
+        "DestinationWeb": "TongariroAlpineCrossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.6563, -39.0793]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "properties": {
+        "Equipment": 100073032,
+        "Region": "AKL",
+        "Destination": "Warkworth walks",
+        "InstallLocation": "Dome Tk, Tearooms to Lookout",
+        "datelast": "2020-11-05",
+        "datefirst": "2008-05-12",
+        "DestinationWeb": "Warkworthwalks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.613, -36.3635]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "properties": {
+        "Equipment": 100073669,
+        "Region": "NNI",
+        "Destination": "Bream Head tracks",
+        "InstallLocation": "Bream Head, Peach Cove Track",
+        "datelast": "2020-11-05",
+        "datefirst": "2007-03-14",
+        "DestinationWeb": "BreamHeadtracks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.5676, -35.8456]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "properties": {
+        "Equipment": 100081557,
+        "Region": "SSI",
+        "Destination": "Greenstone/Caples Tracks",
+        "InstallLocation": "Greenstone Track, Home Creek",
+        "datelast": "2018-10-18",
+        "datefirst": "2008-10-08",
+        "DestinationWeb": "GreenstoneCaplesTracks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [168.2879, -44.9477]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "properties": {
+        "Equipment": 100083840,
+        "Region": "CNI",
+        "Destination": "Whanganui Journey",
+        "InstallLocation": "Bridge to Nowhere Walk",
+        "datelast": "2020-01-28",
+        "datefirst": "2009-06-16",
+        "DestinationWeb": "WhanganuiJourney"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.9724, -39.2735]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "properties": {
+        "Equipment": 100084734,
+        "Region": "NNI",
+        "Destination": "Kerikeri walks",
+        "InstallLocation": "Kerkeri River Senic Reserve Tk",
+        "datelast": "2020-02-04",
+        "datefirst": "2009-09-09",
+        "DestinationWeb": "Kerikeriwalks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.9424, -35.2156]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "properties": {
+        "Equipment": 100084749,
+        "Region": "ESI",
+        "Destination": "Central Arthurs Pass backcountry",
+        "InstallLocation": "Minga Track",
+        "datelast": "2020-01-07",
+        "datefirst": "2008-11-18",
+        "DestinationWeb": "CentralArthursPassbackcountry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [171.622, -42.9426]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "properties": {
+        "Equipment": 100087870,
+        "Region": "HWT",
+        "Destination": "Waitomo/West Coast walks & picnic areas",
+        "InstallLocation": "Waitomo Walkway",
+        "datelast": "2020-09-01",
+        "datefirst": "2010-10-12",
+        "DestinationWeb": "WaitomoWestCoastwalkspicnicareas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.0999, -38.2599]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "properties": {
+        "Equipment": 100088064,
+        "Region": "HWT",
+        "Destination": "Mt Pirongia backcountry",
+        "InstallLocation": "Hihikiwi Track",
+        "datelast": "2020-11-29",
+        "datefirst": "2010-10-13",
+        "DestinationWeb": "MtPirongiabackcountry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.0649, -38.0242]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "properties": {
+        "Equipment": 100088217,
+        "Region": "HWT",
+        "Destination": "Kaniwhaniwha Amenity Area",
+        "InstallLocation": "Nikau Walk",
+        "datelast": "2020-07-19",
+        "datefirst": "2010-10-14",
+        "DestinationWeb": "KaniwhaniwhaAmenityArea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.0816, -37.9207]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "properties": {
+        "Equipment": 100089349,
+        "Region": "SSI",
+        "Destination": "Greenstone/Caples Tracks",
+        "InstallLocation": "Lower Greenstone Track",
+        "datelast": "2020-11-23",
+        "datefirst": "2011-08-17",
+        "DestinationWeb": "GreenstoneCaplesTracks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [168.3337, -44.9322]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "properties": {
+        "Equipment": 100090204,
+        "Region": "HWT",
+        "Destination": "Pureora Timber Trail",
+        "InstallLocation": "Pureora-Timber Trail",
+        "datelast": "2020-09-15",
+        "datefirst": "2011-06-27",
+        "DestinationWeb": "PureoraTimberTrail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.5713, -38.5159]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "properties": {
+        "Equipment": 100091333,
+        "Region": "CNI",
+        "Destination": "Mountain to the Sea Cycle Trail",
+        "InstallLocation": "Mangapurua Track",
+        "datelast": "2019-05-24",
+        "datefirst": "2011-08-22",
+        "DestinationWeb": "MountaintotheSeaCycleTrail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.9892, -39.215]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "properties": {
+        "Equipment": 100092816,
+        "Region": "HWT",
+        "Destination": "North & west Hamilton walks & bike trail",
+        "InstallLocation": "Waterworks Walk",
+        "datelast": "2020-11-05",
+        "datefirst": "2012-03-09",
+        "DestinationWeb": "NorthwestHamiltonwalksbiketrail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.1388, -37.6625]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "properties": {
+        "Equipment": 100092930,
+        "Region": "LNI",
+        "Destination": "Waikanae walks",
+        "InstallLocation": "Waikanae Estuary Track",
+        "datelast": "2020-11-10",
+        "datefirst": "2012-05-22",
+        "DestinationWeb": "Waikanaewalks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.0113, -40.8772]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "properties": {
+        "Equipment": 100093160,
+        "Region": "CNI",
+        "Destination": "Tongariro Northern Circuit",
+        "InstallLocation": "Mangatepopo Track",
+        "datelast": "2020-09-22",
+        "datefirst": "2012-09-25",
+        "DestinationWeb": "TongariroNorthernCircuit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.5531, -39.1895]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "properties": {
+        "Equipment": 100094054,
+        "Region": "ESI",
+        "Destination": "St James cycle trail and backcountry",
+        "InstallLocation": "Waiau Pass Route",
+        "datelast": "2020-02-05",
+        "datefirst": "2013-02-01",
+        "DestinationWeb": "StJamescycletrailandbackcountry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.6497, -42.2183]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "properties": {
+        "Equipment": 100094097,
+        "Region": "HWT",
+        "Destination": "North & west Hamilton walks & bike trail",
+        "InstallLocation": "Kauri Loop Walk-Hakarimata",
+        "datelast": "2020-07-14",
+        "datefirst": "2012-11-26",
+        "DestinationWeb": "NorthwestHamiltonwalksbiketrail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.156, -37.6068]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "properties": {
+        "Equipment": 100094098,
+        "Region": "HWT",
+        "Destination": "Mt Pirongia backcountry",
+        "InstallLocation": "Tahuanui Track",
+        "datelast": "2020-10-15",
+        "datefirst": "2012-11-27",
+        "DestinationWeb": "MtPirongiabackcountry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.0753, -37.9405]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "properties": {
+        "Equipment": 100094233,
+        "Region": "HWT",
+        "Destination": "Pureora Timber Trail",
+        "InstallLocation": "Timber Trail, Ongarue",
+        "datelast": "2019-03-07",
+        "datefirst": "2012-11-28",
+        "DestinationWeb": "PureoraTimberTrail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.3454, -38.7238]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "properties": {
+        "Equipment": 100094234,
+        "Region": "HWT",
+        "Destination": "Pureora Timber Trail",
+        "InstallLocation": "Timber Trail, Piropiro",
+        "datelast": "2020-09-16",
+        "datefirst": "2012-11-29",
+        "DestinationWeb": "PureoraTimberTrail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.4821, -38.6483]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "properties": {
+        "Equipment": 100094235,
+        "Region": "HWT",
+        "Destination": "Pureora Timber Trail",
+        "InstallLocation": "Timber Trail, No. 10 Camp",
+        "datelast": "2019-03-07",
+        "datefirst": "2012-11-28",
+        "DestinationWeb": "PureoraTimberTrail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.4117, -38.686]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "properties": {
+        "Equipment": 100095632,
+        "Region": "HWT",
+        "Destination": "Pureora Timber Trail",
+        "InstallLocation": "Timber Trail, Angels Rest",
+        "datelast": "2019-09-25",
+        "datefirst": "2013-07-01",
+        "DestinationWeb": "PureoraTimberTrail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.5906, -38.5913]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "properties": {
+        "Equipment": 100095823,
+        "Region": "CNI",
+        "Destination": "Tongariro Alpine Crossing",
+        "InstallLocation": "Tongariro Xing, Ketetahi upper",
+        "datelast": "2020-11-12",
+        "datefirst": "2013-05-20",
+        "DestinationWeb": "TongariroAlpineCrossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.6493, -39.098]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "properties": {
+        "Equipment": 100097151,
+        "Region": "NNI",
+        "Destination": "Te Paki Coastal Track",
+        "InstallLocation": "Te Werahi Beach Track",
+        "datelast": "2020-08-25",
+        "datefirst": "2015-06-19",
+        "DestinationWeb": "TePakiCoastalTrack"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.6801, -34.4307]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "properties": {
+        "Equipment": 100097152,
+        "Region": "NNI",
+        "Destination": "Te Paki Coastal Track",
+        "InstallLocation": "Twilight Beach to Scotts Pt Tk",
+        "datelast": "2020-11-25",
+        "datefirst": "2013-12-13",
+        "DestinationWeb": "TePakiCoastalTrack"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.7024, -34.5054]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "properties": {
+        "Equipment": 100097596,
+        "Region": "NNI",
+        "Destination": "Bream Head tracks",
+        "InstallLocation": "Te Whara Tk - Ocean Beach End",
+        "datelast": "2020-11-05",
+        "datefirst": "2015-10-20",
+        "DestinationWeb": "BreamHeadtracks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.5781, -35.8411]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "properties": {
+        "Equipment": 100097620,
+        "Region": "NNI",
+        "Destination": "Kerikeri Basin",
+        "InstallLocation": "Kororipo Pa Walk",
+        "datelast": "2020-01-30",
+        "datefirst": "2015-06-09",
+        "DestinationWeb": "KerikeriBasin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.9635, -35.2187]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "properties": {
+        "Equipment": 100103055,
+        "Region": "NSI",
+        "Destination": "Queen Charlotte Track",
+        "InstallLocation": "Queen Charlotte tk, Te Mahia",
+        "datelast": "2020-11-05",
+        "datefirst": "2017-12-28",
+        "DestinationWeb": "QueenCharlotteTrack"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.974, -41.2187]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "properties": {
+        "Equipment": 100103061,
+        "Region": "NSI",
+        "Destination": "West Mt Richmond FP/Red Hills backcntry",
+        "InstallLocation": "Alpine Route, Richmond Range",
+        "datelast": "2019-05-10",
+        "datefirst": "2017-04-01",
+        "DestinationWeb": "WestMtRichmondFPRedHillsbackcntry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.003, -41.5996]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "properties": {
+        "Equipment": 100104366,
+        "Region": "AKL",
+        "Destination": "Auckland walks",
+        "InstallLocation": "",
+        "datelast": "2020-08-03",
+        "datefirst": "2019-03-06",
+        "DestinationWeb": "Aucklandwalks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.7244, -36.6449]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "properties": {
+        "Equipment": 100104374,
+        "Region": "CNI",
+        "Destination": "Tongariro Alpine Crossing",
+        "InstallLocation": "Tongariro Xing, North Crater",
+        "datelast": "2020-11-12",
+        "datefirst": "2017-06-21",
+        "DestinationWeb": "TongariroAlpineCrossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.6606, -39.1282]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "properties": {
+        "Equipment": 100122980,
+        "Region": "AKL",
+        "Destination": "Warkworth backcountry",
+        "InstallLocation": "",
+        "datelast": "2019-11-18",
+        "datefirst": "2018-11-19",
+        "DestinationWeb": "Warkworthbackcountry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.654, -36.5019]
+      }
+    }
+  ]
+} 
