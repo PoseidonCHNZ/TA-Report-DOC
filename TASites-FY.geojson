@@ -1,0 +1,485 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "properties": {
+        "Equipment": 100033460,
+        "Region": "Wellington",
+        "Section": "Tararua Ranges",
+        "Location": "Waitewaewae Track",
+        "DMFCategory": "Back Country",
+        "Island": "North",
+        "datelast": "2020-11-23",
+        "datefirst": "2008-06-10",
+        "DestinationWeb": "TararuaFPKapitiaccessbackcountry",
+        "Destination": "Tararua FP -Kapiti access backcountry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.2395, -40.8768]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "Equipment": 100057063,
+        "Region": "Southland",
+        "Section": "Long Hilly Track",
+        "Location": "Round Hill Walking Track",
+        "DMFCategory": "Local Treasure",
+        "Island": "South",
+        "datelast": "2020-07-20",
+        "datefirst": "2008-05-28",
+        "DestinationWeb": "Tuataperewalksandpicnicarea",
+        "Destination": "Tuatapere walks and picnic area"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [167.8325, -46.3317]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "properties": {
+        "Equipment": 100057473,
+        "Region": "Northland",
+        "Section": "Bream Tail Mangawhai Walkway",
+        "Location": "Mangawhai Walkway",
+        "DMFCategory": "Local Treasure",
+        "Island": "North",
+        "datelast": "2020-11-12",
+        "datefirst": "2007-06-12",
+        "DestinationWeb": "BreamBayMangawhaicampsiteandwalks",
+        "Destination": "Bream Bay/Mangawhai campsite and walks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.5908, -36.0698]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "properties": {
+        "Equipment": 100065284,
+        "Region": "Marlborough",
+        "Section": "Queen Charlotte Track",
+        "Location": "Queen Charlotte Tk (Torea)",
+        "DMFCategory": "Gateway",
+        "Island": "South",
+        "datelast": "2020-12-18",
+        "datefirst": "2008-06-03",
+        "DestinationWeb": "QueenCharlotteTrack",
+        "Destination": "Queen Charlotte Track"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.0344, -41.2073]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "properties": {
+        "Equipment": 100073032,
+        "Region": "Auckland",
+        "Section": "Govan Wilson to Puhoi Valley",
+        "Location": "Dome Tk (Lookout)",
+        "DMFCategory": "Local Treasure",
+        "Island": "North",
+        "datelast": "2020-12-15",
+        "datefirst": "2008-05-12",
+        "DestinationWeb": "Warkworthwalks",
+        "Destination": "Warkworth walks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.613, -36.3635]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "properties": {
+        "Equipment": 100081554,
+        "Region": "Otago",
+        "Section": "Wakatipu Track",
+        "Location": "Lake Hayes Walkway",
+        "DMFCategory": "Local Treasure",
+        "Island": "South",
+        "datelast": "2020-08-31",
+        "datefirst": "2008-10-13",
+        "DestinationWeb": "Queenstownactivities",
+        "Destination": "Queenstown activities"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [168.7998, -44.9933]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "properties": {
+        "Equipment": 100081557,
+        "Region": "Southland",
+        "Section": "Mavora Walkway",
+        "Location": "Greenstone Track (Home Creek)",
+        "DMFCategory": "Gateway",
+        "Island": "South",
+        "datelast": "2020-12-07",
+        "datefirst": "2008-10-08",
+        "DestinationWeb": "GreenstoneCaplesTracks",
+        "Destination": "Greenstone/Caples Tracks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [168.326, -44.9311]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "properties": {
+        "Equipment": 100084734,
+        "Region": "Northland",
+        "Section": "Mangakaretu to Kerikeri",
+        "Location": "Kerkeri River Scenic Reserve Tk",
+        "DMFCategory": "Local Treasure",
+        "Island": "North",
+        "datelast": "2020-02-04",
+        "datefirst": "2009-09-09",
+        "DestinationWeb": "Kerikeriwalks",
+        "Destination": "Kerikeri walks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.9424, -35.2156]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "properties": {
+        "Equipment": 100084749,
+        "Region": "Canterbury",
+        "Section": "Boyle to Arthur's Pass",
+        "Location": "Minga Track",
+        "DMFCategory": "Back Country",
+        "Island": "South",
+        "datelast": "2020-01-07",
+        "datefirst": "2008-11-18",
+        "DestinationWeb": "CentralArthursPassbackcountry",
+        "Destination": "Central Arthurs Pass backcountry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [171.622, -42.9426]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "properties": {
+        "Equipment": 100086425,
+        "Region": "Southland",
+        "Section": "Invercargill to Bluff",
+        "Location": "Glory Track",
+        "DMFCategory": "Gateway",
+        "Island": "South",
+        "datelast": "2020-07-24",
+        "datefirst": "2010-06-17",
+        "DestinationWeb": "BluffHillMotupohue",
+        "Destination": "Bluff Hill/Motupohue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [168.3507, -46.6138]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "properties": {
+        "Equipment": 100088064,
+        "Region": "Waikato",
+        "Section": "Pirongia Traverse",
+        "Location": "Hihikiwi Track",
+        "DMFCategory": "Back Country",
+        "Island": "North",
+        "datelast": "2020-11-29",
+        "datefirst": "2010-10-13",
+        "DestinationWeb": "MtPirongiabackcountry",
+        "Destination": "Mt Pirongia backcountry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.0649, -38.0242]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "properties": {
+        "Equipment": 100091333,
+        "Region": "Manawatu",
+        "Section": "National Park to Whanganui River",
+        "Location": "Mangapurua Track",
+        "DMFCategory": "Gateway",
+        "Island": "North",
+        "datelast": "2019-05-24",
+        "datefirst": "2011-08-22",
+        "DestinationWeb": "MountaintotheSeaCycleTrail",
+        "Destination": "Mountain to the Sea Cycle Trail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.9892, -39.215]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "properties": {
+        "Equipment": 100092816,
+        "Region": "Waikato",
+        "Section": "Hakarimata Walkway",
+        "Location": "Waterworks Walk",
+        "DMFCategory": "Local Treasure",
+        "Island": "North",
+        "datelast": "2020-11-05",
+        "datefirst": "2012-03-09",
+        "DestinationWeb": "NorthwestHamiltonwalksbiketrail",
+        "Destination": "North & west Hamilton walks & bike trail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.1388, -37.6625]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "properties": {
+        "Equipment": 100092930,
+        "Region": "Wellington",
+        "Section": "Kapiti Coast",
+        "Location": "Waikanae Estuary Track",
+        "DMFCategory": "Local Treasure",
+        "Island": "North",
+        "datelast": "2020-12-08",
+        "datefirst": "2012-05-22",
+        "DestinationWeb": "Waikanaewalks",
+        "Destination": "Waikanae walks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.0113, -40.8772]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "properties": {
+        "Equipment": 100093160,
+        "Region": "Whanganui",
+        "Section": "Mangatepopo to National Park",
+        "Location": "Mangatepopo Track",
+        "DMFCategory": "Gateway",
+        "Island": "North",
+        "datelast": "2020-09-22",
+        "datefirst": "2012-09-25",
+        "DestinationWeb": "TongariroNorthernCircuit",
+        "Destination": "Tongariro Northern Circuit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.5531, -39.1895]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "properties": {
+        "Equipment": 100093899,
+        "Region": "Canterbury",
+        "Section": "Boyle to Arthur's Pass",
+        "Location": "Hope Kiwi Track",
+        "DMFCategory": "Back Country",
+        "Island": "South",
+        "datelast": "2020-08-30",
+        "datefirst": "2012-07-11",
+        "DestinationWeb": "LewisPassLakeSumnerbackcountry",
+        "Destination": "Lewis Pass/Lake Sumner backcountry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.3746, -42.5853]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "properties": {
+        "Equipment": 100094054,
+        "Region": "Canterbury",
+        "Section": "Waiua Pass Track",
+        "Location": "Waiau Pass Route",
+        "DMFCategory": "Back Country",
+        "Island": "South",
+        "datelast": "2020-02-05",
+        "datefirst": "2013-02-01",
+        "DestinationWeb": "StJamescycletrailandbackcountry",
+        "Destination": "St James cycle trail and backcountry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.6497, -42.2183]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "properties": {
+        "Equipment": 100094235,
+        "Region": "Waikato",
+        "Section": "Pureora Forest - The Timber Trail",
+        "Location": "Timber Trail (No. 10 Camp)",
+        "DMFCategory": "Icon",
+        "Island": "North",
+        "datelast": "2019-03-07",
+        "datefirst": "2012-11-28",
+        "DestinationWeb": "PureoraTimberTrail",
+        "Destination": "Pureora Timber Trail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.4117, -38.686]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "properties": {
+        "Equipment": 100097152,
+        "Region": "Northland",
+        "Section": "Cape Reinga to Ahipara",
+        "Location": "Twilight Beach to Scotts Point Tk",
+        "DMFCategory": "Icon",
+        "Island": "North",
+        "datelast": "2020-11-25",
+        "datefirst": "2013-12-13",
+        "DestinationWeb": "TePakiCoastalTrack",
+        "Destination": "Te Paki Coastal Track"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.7024, -34.5054]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "properties": {
+        "Equipment": 100097597,
+        "Region": "Northland",
+        "Section": "Russell Forest to Whangarei Heads",
+        "Location": "Te Whara Tk (Mt Lion End)",
+        "DMFCategory": "Gateway",
+        "Island": "North",
+        "datelast": "2020-11-05",
+        "datefirst": "2015-08-12",
+        "DestinationWeb": "BreamHeadtracks",
+        "Destination": "Bream Head tracks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.5353, -35.8524]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "properties": {
+        "Equipment": 100103061,
+        "Region": "Tasman",
+        "Section": "Richmond Alpine Track",
+        "Location": "Alpine Route, Richmond Range",
+        "DMFCategory": "Back Country",
+        "Island": "South",
+        "datelast": "2019-05-10",
+        "datefirst": "2017-04-01",
+        "DestinationWeb": "WestMtRichmondFPRedHillsbackcntry",
+        "Destination": "West Mt Richmond FP/Red Hills backcntry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.003, -41.5996]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "properties": {
+        "Equipment": 100104366,
+        "Region": "Auckland",
+        "Section": "Okura to Long Bay",
+        "Location": "Okura Bush Walkway",
+        "DMFCategory": "Local Treasure",
+        "Island": "North",
+        "datelast": "2020-12-06",
+        "datefirst": "2019-03-06",
+        "DestinationWeb": "Aucklandwalks",
+        "Destination": "Auckland walks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.7244, -36.6449]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "properties": {
+        "Equipment": 100122980,
+        "Region": "Auckland",
+        "Section": "Puhoi Track",
+        "Location": "Puhoi Valley Track",
+        "DMFCategory": "Back Country",
+        "Island": "North",
+        "datelast": "2019-11-18",
+        "datefirst": "2018-11-19",
+        "DestinationWeb": "Warkworthbackcountry",
+        "Destination": "Warkworth backcountry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.654, -36.5019]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "properties": {
+        "Equipment": 100132202,
+        "Region": "Tasman",
+        "Section": "Pelorus River Track",
+        "Location": "Pelorus Track",
+        "DMFCategory": "Back Country",
+        "Island": "South",
+        "datelast": "2020-02-17",
+        "datefirst": "2012-10-25",
+        "DestinationWeb": "MtRichmondFPNelsonPelorusaccess",
+        "Destination": "Mt Richmond FP (Nelson/Pelorus access)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.4647, -41.3294]
+      }
+    }
+  ]
+} 
