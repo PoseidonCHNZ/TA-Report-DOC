@@ -17,7 +17,7 @@
     "Location": "Pelorus Track",
     "Equipment": 100132202,
     "FY": "2013/2014",
-    "Count": 2479,
+    "Count": 2480,
     "Change": "0.03",
     "Prop": 0.67
   },
@@ -83,12 +83,23 @@
     "Location": "Pelorus Track",
     "Equipment": 100132202,
     "FY": "2019/2020",
-    "Count": 3867,
+    "Count": 3868,
     "Change": "1.08",
-    "Prop": 0.44
+    "Prop": 0.43
   },
   {
     "id": 9,
+    "Region": "Tasman",
+    "Section": "Pelorus River Track",
+    "Location": "Pelorus Track",
+    "Equipment": 100132202,
+    "FY": "2020/2021",
+    "Count": 2460,
+    "Change": "-0.36",
+    "Prop": 0
+  },
+  {
+    "id": 10,
     "Region": "Tasman",
     "Section": "Richmond Alpine Track",
     "Location": "Alpine Route, Richmond Range",
@@ -99,7 +110,7 @@
     "Prop": 0.25
   },
   {
-    "id": 10,
+    "id": 11,
     "Region": "Tasman",
     "Section": "Richmond Alpine Track",
     "Location": "Alpine Route, Richmond Range",
@@ -110,7 +121,7 @@
     "Prop": 1
   },
   {
-    "id": 11,
+    "id": 12,
     "Region": "Tasman",
     "Section": "Richmond Alpine Track",
     "Location": "Alpine Route, Richmond Range",
@@ -121,7 +132,7 @@
     "Prop": 0.85
   },
   {
-    "id": 12,
+    "id": 13,
     "Region": "Canterbury",
     "Section": "Waiua Pass Track",
     "Location": "Waiau Pass Route",
@@ -132,7 +143,7 @@
     "Prop": 0.41
   },
   {
-    "id": 13,
+    "id": 14,
     "Region": "Canterbury",
     "Section": "Waiua Pass Track",
     "Location": "Waiau Pass Route",
@@ -143,7 +154,7 @@
     "Prop": 1
   },
   {
-    "id": 14,
+    "id": 15,
     "Region": "Canterbury",
     "Section": "Waiua Pass Track",
     "Location": "Waiau Pass Route",
@@ -154,7 +165,7 @@
     "Prop": 0.96
   },
   {
-    "id": 15,
+    "id": 16,
     "Region": "Canterbury",
     "Section": "Waiua Pass Track",
     "Location": "Waiau Pass Route",
@@ -165,7 +176,7 @@
     "Prop": 0.87
   },
   {
-    "id": 16,
+    "id": 17,
     "Region": "Canterbury",
     "Section": "Waiua Pass Track",
     "Location": "Waiau Pass Route",
@@ -176,7 +187,7 @@
     "Prop": 0.98
   },
   {
-    "id": 17,
+    "id": 18,
     "Region": "Canterbury",
     "Section": "Waiua Pass Track",
     "Location": "Waiau Pass Route",
@@ -187,7 +198,7 @@
     "Prop": 0.97
   },
   {
-    "id": 18,
+    "id": 19,
     "Region": "Canterbury",
     "Section": "Waiua Pass Track",
     "Location": "Waiau Pass Route",
@@ -198,7 +209,7 @@
     "Prop": 1
   },
   {
-    "id": 19,
+    "id": 20,
     "Region": "Canterbury",
     "Section": "Waiua Pass Track",
     "Location": "Waiau Pass Route",
@@ -209,7 +220,7 @@
     "Prop": 0.6
   },
   {
-    "id": 20,
+    "id": 21,
     "Region": "Canterbury",
     "Section": "Boyle to Arthur's Pass",
     "Location": "Hope Kiwi Track",
@@ -220,7 +231,7 @@
     "Prop": 0.91
   },
   {
-    "id": 21,
+    "id": 22,
     "Region": "Canterbury",
     "Section": "Boyle to Arthur's Pass",
     "Location": "Hope Kiwi Track",
@@ -231,7 +242,7 @@
     "Prop": 1
   },
   {
-    "id": 22,
+    "id": 23,
     "Region": "Canterbury",
     "Section": "Boyle to Arthur's Pass",
     "Location": "Hope Kiwi Track",
@@ -242,7 +253,7 @@
     "Prop": 1
   },
   {
-    "id": 23,
+    "id": 24,
     "Region": "Canterbury",
     "Section": "Boyle to Arthur's Pass",
     "Location": "Hope Kiwi Track",
@@ -253,7 +264,7 @@
     "Prop": 1
   },
   {
-    "id": 24,
+    "id": 25,
     "Region": "Canterbury",
     "Section": "Boyle to Arthur's Pass",
     "Location": "Hope Kiwi Track",
@@ -264,7 +275,7 @@
     "Prop": 0.99
   },
   {
-    "id": 25,
+    "id": 26,
     "Region": "Canterbury",
     "Section": "Boyle to Arthur's Pass",
     "Location": "Hope Kiwi Track",
@@ -275,7 +286,7 @@
     "Prop": 1
   },
   {
-    "id": 26,
+    "id": 27,
     "Region": "Canterbury",
     "Section": "Boyle to Arthur's Pass",
     "Location": "Hope Kiwi Track",
@@ -286,7 +297,7 @@
     "Prop": 1
   },
   {
-    "id": 27,
+    "id": 28,
     "Region": "Canterbury",
     "Section": "Boyle to Arthur's Pass",
     "Location": "Hope Kiwi Track",
@@ -297,7 +308,7 @@
     "Prop": 0.96
   },
   {
-    "id": 28,
+    "id": 29,
     "Region": "Canterbury",
     "Section": "Boyle to Arthur's Pass",
     "Location": "Hope Kiwi Track",
@@ -308,7 +319,7 @@
     "Prop": 0.17
   },
   {
-    "id": 29,
+    "id": 30,
     "Region": "Southland",
     "Section": "Invercargill to Bluff",
     "Location": "Glory Track",
@@ -319,7 +330,7 @@
     "Prop": 0.04
   },
   {
-    "id": 30,
+    "id": 31,
     "Region": "Southland",
     "Section": "Invercargill to Bluff",
     "Location": "Glory Track",
@@ -330,7 +341,7 @@
     "Prop": 1
   },
   {
-    "id": 31,
+    "id": 32,
     "Region": "Southland",
     "Section": "Invercargill to Bluff",
     "Location": "Glory Track",
@@ -341,7 +352,7 @@
     "Prop": 1
   },
   {
-    "id": 32,
+    "id": 33,
     "Region": "Southland",
     "Section": "Invercargill to Bluff",
     "Location": "Glory Track",
@@ -352,7 +363,7 @@
     "Prop": 1
   },
   {
-    "id": 33,
+    "id": 34,
     "Region": "Southland",
     "Section": "Invercargill to Bluff",
     "Location": "Glory Track",
@@ -363,7 +374,7 @@
     "Prop": 0.75
   },
   {
-    "id": 34,
+    "id": 35,
     "Region": "Southland",
     "Section": "Invercargill to Bluff",
     "Location": "Glory Track",
@@ -374,7 +385,7 @@
     "Prop": 1
   },
   {
-    "id": 35,
+    "id": 36,
     "Region": "Southland",
     "Section": "Invercargill to Bluff",
     "Location": "Glory Track",
@@ -385,7 +396,7 @@
     "Prop": 1
   },
   {
-    "id": 36,
+    "id": 37,
     "Region": "Southland",
     "Section": "Invercargill to Bluff",
     "Location": "Glory Track",
@@ -396,7 +407,7 @@
     "Prop": 1
   },
   {
-    "id": 37,
+    "id": 38,
     "Region": "Southland",
     "Section": "Invercargill to Bluff",
     "Location": "Glory Track",
@@ -407,7 +418,7 @@
     "Prop": 0.99
   },
   {
-    "id": 38,
+    "id": 39,
     "Region": "Southland",
     "Section": "Invercargill to Bluff",
     "Location": "Glory Track",
@@ -418,7 +429,7 @@
     "Prop": 1
   },
   {
-    "id": 39,
+    "id": 40,
     "Region": "Southland",
     "Section": "Invercargill to Bluff",
     "Location": "Glory Track",
@@ -429,7 +440,7 @@
     "Prop": 1
   },
   {
-    "id": 40,
+    "id": 41,
     "Region": "Southland",
     "Section": "Invercargill to Bluff",
     "Location": "Glory Track",
@@ -440,7 +451,7 @@
     "Prop": 0.07
   },
   {
-    "id": 41,
+    "id": 42,
     "Region": "Canterbury",
     "Section": "Boyle to Arthur's Pass",
     "Location": "Minga Track",
@@ -451,7 +462,7 @@
     "Prop": 0.61
   },
   {
-    "id": 42,
+    "id": 43,
     "Region": "Canterbury",
     "Section": "Boyle to Arthur's Pass",
     "Location": "Minga Track",
@@ -462,7 +473,7 @@
     "Prop": 1
   },
   {
-    "id": 43,
+    "id": 44,
     "Region": "Canterbury",
     "Section": "Boyle to Arthur's Pass",
     "Location": "Minga Track",
@@ -473,7 +484,7 @@
     "Prop": 1
   },
   {
-    "id": 44,
+    "id": 45,
     "Region": "Canterbury",
     "Section": "Boyle to Arthur's Pass",
     "Location": "Minga Track",
@@ -484,7 +495,7 @@
     "Prop": 0.92
   },
   {
-    "id": 45,
+    "id": 46,
     "Region": "Canterbury",
     "Section": "Boyle to Arthur's Pass",
     "Location": "Minga Track",
@@ -495,7 +506,7 @@
     "Prop": 0.47
   },
   {
-    "id": 46,
+    "id": 47,
     "Region": "Canterbury",
     "Section": "Boyle to Arthur's Pass",
     "Location": "Minga Track",
@@ -506,7 +517,7 @@
     "Prop": 1
   },
   {
-    "id": 47,
+    "id": 48,
     "Region": "Canterbury",
     "Section": "Boyle to Arthur's Pass",
     "Location": "Minga Track",
@@ -517,7 +528,7 @@
     "Prop": 1
   },
   {
-    "id": 48,
+    "id": 49,
     "Region": "Canterbury",
     "Section": "Boyle to Arthur's Pass",
     "Location": "Minga Track",
@@ -528,7 +539,7 @@
     "Prop": 0.92
   },
   {
-    "id": 49,
+    "id": 50,
     "Region": "Canterbury",
     "Section": "Boyle to Arthur's Pass",
     "Location": "Minga Track",
@@ -539,7 +550,7 @@
     "Prop": 1
   },
   {
-    "id": 50,
+    "id": 51,
     "Region": "Canterbury",
     "Section": "Boyle to Arthur's Pass",
     "Location": "Minga Track",
@@ -550,7 +561,7 @@
     "Prop": 1
   },
   {
-    "id": 51,
+    "id": 52,
     "Region": "Canterbury",
     "Section": "Boyle to Arthur's Pass",
     "Location": "Minga Track",
@@ -561,7 +572,7 @@
     "Prop": 1
   },
   {
-    "id": 52,
+    "id": 53,
     "Region": "Canterbury",
     "Section": "Boyle to Arthur's Pass",
     "Location": "Minga Track",
@@ -572,7 +583,7 @@
     "Prop": 0.52
   },
   {
-    "id": 53,
+    "id": 54,
     "Region": "Southland",
     "Section": "Mavora Walkway",
     "Location": "Greenstone Track (Home Creek)",
@@ -583,7 +594,7 @@
     "Prop": 0.73
   },
   {
-    "id": 54,
+    "id": 55,
     "Region": "Southland",
     "Section": "Mavora Walkway",
     "Location": "Greenstone Track (Home Creek)",
@@ -594,7 +605,7 @@
     "Prop": 1
   },
   {
-    "id": 55,
+    "id": 56,
     "Region": "Southland",
     "Section": "Mavora Walkway",
     "Location": "Greenstone Track (Home Creek)",
@@ -605,7 +616,7 @@
     "Prop": 0.44
   },
   {
-    "id": 56,
+    "id": 57,
     "Region": "Southland",
     "Section": "Mavora Walkway",
     "Location": "Greenstone Track (Home Creek)",
@@ -616,7 +627,7 @@
     "Prop": 1
   },
   {
-    "id": 57,
+    "id": 58,
     "Region": "Southland",
     "Section": "Mavora Walkway",
     "Location": "Greenstone Track (Home Creek)",
@@ -627,7 +638,7 @@
     "Prop": 1
   },
   {
-    "id": 58,
+    "id": 59,
     "Region": "Southland",
     "Section": "Mavora Walkway",
     "Location": "Greenstone Track (Home Creek)",
@@ -638,7 +649,7 @@
     "Prop": 1
   },
   {
-    "id": 59,
+    "id": 60,
     "Region": "Southland",
     "Section": "Mavora Walkway",
     "Location": "Greenstone Track (Home Creek)",
@@ -649,7 +660,7 @@
     "Prop": 0.29
   },
   {
-    "id": 60,
+    "id": 61,
     "Region": "Southland",
     "Section": "Mavora Walkway",
     "Location": "Greenstone Track (Home Creek)",
@@ -660,7 +671,7 @@
     "Prop": 0.94
   },
   {
-    "id": 61,
+    "id": 62,
     "Region": "Southland",
     "Section": "Mavora Walkway",
     "Location": "Greenstone Track (Home Creek)",
@@ -671,7 +682,7 @@
     "Prop": 0.22
   },
   {
-    "id": 62,
+    "id": 63,
     "Region": "Southland",
     "Section": "Mavora Walkway",
     "Location": "Greenstone Track (Home Creek)",
@@ -682,7 +693,7 @@
     "Prop": 1
   },
   {
-    "id": 63,
+    "id": 64,
     "Region": "Southland",
     "Section": "Mavora Walkway",
     "Location": "Greenstone Track (Home Creek)",
@@ -693,7 +704,7 @@
     "Prop": 0.3
   },
   {
-    "id": 64,
+    "id": 65,
     "Region": "Southland",
     "Section": "Mavora Walkway",
     "Location": "Greenstone Track (Home Creek)",
@@ -704,7 +715,7 @@
     "Prop": 0
   },
   {
-    "id": 65,
+    "id": 66,
     "Region": "Southland",
     "Section": "Mavora Walkway",
     "Location": "Greenstone Track (Home Creek)",
@@ -715,7 +726,7 @@
     "Prop": 0.03
   },
   {
-    "id": 66,
+    "id": 67,
     "Region": "Otago",
     "Section": "Wakatipu Track",
     "Location": "Lake Hayes Walkway",
@@ -726,7 +737,7 @@
     "Prop": 0.71
   },
   {
-    "id": 67,
+    "id": 68,
     "Region": "Otago",
     "Section": "Wakatipu Track",
     "Location": "Lake Hayes Walkway",
@@ -737,7 +748,7 @@
     "Prop": 0.66
   },
   {
-    "id": 68,
+    "id": 69,
     "Region": "Otago",
     "Section": "Wakatipu Track",
     "Location": "Lake Hayes Walkway",
@@ -748,7 +759,7 @@
     "Prop": 0.99
   },
   {
-    "id": 69,
+    "id": 70,
     "Region": "Otago",
     "Section": "Wakatipu Track",
     "Location": "Lake Hayes Walkway",
@@ -759,7 +770,7 @@
     "Prop": 1
   },
   {
-    "id": 70,
+    "id": 71,
     "Region": "Otago",
     "Section": "Wakatipu Track",
     "Location": "Lake Hayes Walkway",
@@ -770,7 +781,7 @@
     "Prop": 0.73
   },
   {
-    "id": 71,
+    "id": 72,
     "Region": "Otago",
     "Section": "Wakatipu Track",
     "Location": "Lake Hayes Walkway",
@@ -781,7 +792,7 @@
     "Prop": 0.74
   },
   {
-    "id": 72,
+    "id": 73,
     "Region": "Otago",
     "Section": "Wakatipu Track",
     "Location": "Lake Hayes Walkway",
@@ -792,7 +803,7 @@
     "Prop": 1
   },
   {
-    "id": 73,
+    "id": 74,
     "Region": "Otago",
     "Section": "Wakatipu Track",
     "Location": "Lake Hayes Walkway",
@@ -803,7 +814,7 @@
     "Prop": 1
   },
   {
-    "id": 74,
+    "id": 75,
     "Region": "Otago",
     "Section": "Wakatipu Track",
     "Location": "Lake Hayes Walkway",
@@ -814,7 +825,7 @@
     "Prop": 1
   },
   {
-    "id": 75,
+    "id": 76,
     "Region": "Otago",
     "Section": "Wakatipu Track",
     "Location": "Lake Hayes Walkway",
@@ -825,7 +836,7 @@
     "Prop": 1
   },
   {
-    "id": 76,
+    "id": 77,
     "Region": "Otago",
     "Section": "Wakatipu Track",
     "Location": "Lake Hayes Walkway",
@@ -836,7 +847,7 @@
     "Prop": 1
   },
   {
-    "id": 77,
+    "id": 78,
     "Region": "Otago",
     "Section": "Wakatipu Track",
     "Location": "Lake Hayes Walkway",
@@ -847,7 +858,7 @@
     "Prop": 1
   },
   {
-    "id": 78,
+    "id": 79,
     "Region": "Otago",
     "Section": "Wakatipu Track",
     "Location": "Lake Hayes Walkway",
@@ -858,18 +869,18 @@
     "Prop": 0.17
   },
   {
-    "id": 79,
+    "id": 80,
     "Region": "Marlborough",
     "Section": "Queen Charlotte Track",
     "Location": "Queen Charlotte Tk (Torea)",
     "Equipment": 100065284,
     "FY": "2007/2008",
-    "Count": 9221,
+    "Count": 9192,
     "Change": "N/A",
     "Prop": 0.08
   },
   {
-    "id": 80,
+    "id": 81,
     "Region": "Marlborough",
     "Section": "Queen Charlotte Track",
     "Location": "Queen Charlotte Tk (Torea)",
@@ -880,7 +891,7 @@
     "Prop": 1
   },
   {
-    "id": 81,
+    "id": 82,
     "Region": "Marlborough",
     "Section": "Queen Charlotte Track",
     "Location": "Queen Charlotte Tk (Torea)",
@@ -891,29 +902,29 @@
     "Prop": 1
   },
   {
-    "id": 82,
-    "Region": "Marlborough",
-    "Section": "Queen Charlotte Track",
-    "Location": "Queen Charlotte Tk (Torea)",
-    "Equipment": 100065284,
-    "FY": "2010/2011",
-    "Count": 8217,
-    "Change": "-0.29",
-    "Prop": 0.69
-  },
-  {
     "id": 83,
     "Region": "Marlborough",
     "Section": "Queen Charlotte Track",
     "Location": "Queen Charlotte Tk (Torea)",
     "Equipment": 100065284,
+    "FY": "2010/2011",
+    "Count": 8201,
+    "Change": "-0.29",
+    "Prop": 0.69
+  },
+  {
+    "id": 84,
+    "Region": "Marlborough",
+    "Section": "Queen Charlotte Track",
+    "Location": "Queen Charlotte Tk (Torea)",
+    "Equipment": 100065284,
     "FY": "2011/2012",
-    "Count": 7113,
+    "Count": 7112,
     "Change": "-0.13",
     "Prop": 0.97
   },
   {
-    "id": 84,
+    "id": 85,
     "Region": "Marlborough",
     "Section": "Queen Charlotte Track",
     "Location": "Queen Charlotte Tk (Torea)",
@@ -924,7 +935,7 @@
     "Prop": 0.98
   },
   {
-    "id": 85,
+    "id": 86,
     "Region": "Marlborough",
     "Section": "Queen Charlotte Track",
     "Location": "Queen Charlotte Tk (Torea)",
@@ -935,7 +946,7 @@
     "Prop": 0.98
   },
   {
-    "id": 86,
+    "id": 87,
     "Region": "Marlborough",
     "Section": "Queen Charlotte Track",
     "Location": "Queen Charlotte Tk (Torea)",
@@ -946,18 +957,18 @@
     "Prop": 0.99
   },
   {
-    "id": 87,
+    "id": 88,
     "Region": "Marlborough",
     "Section": "Queen Charlotte Track",
     "Location": "Queen Charlotte Tk (Torea)",
     "Equipment": 100065284,
     "FY": "2015/2016",
-    "Count": 8456,
+    "Count": 8453,
     "Change": "0.14",
     "Prop": 0.9
   },
   {
-    "id": 88,
+    "id": 89,
     "Region": "Marlborough",
     "Section": "Queen Charlotte Track",
     "Location": "Queen Charlotte Tk (Torea)",
@@ -968,7 +979,7 @@
     "Prop": 0.98
   },
   {
-    "id": 89,
+    "id": 90,
     "Region": "Marlborough",
     "Section": "Queen Charlotte Track",
     "Location": "Queen Charlotte Tk (Torea)",
@@ -979,7 +990,7 @@
     "Prop": 0.98
   },
   {
-    "id": 90,
+    "id": 91,
     "Region": "Marlborough",
     "Section": "Queen Charlotte Track",
     "Location": "Queen Charlotte Tk (Torea)",
@@ -990,37 +1001,26 @@
     "Prop": 1
   },
   {
-    "id": 91,
-    "Region": "Marlborough",
-    "Section": "Queen Charlotte Track",
-    "Location": "Queen Charlotte Tk (Torea)",
-    "Equipment": 100065284,
-    "FY": "2019/2020",
-    "Count": 7892,
-    "Change": "-0.06",
-    "Prop": 0.82
-  },
-  {
     "id": 92,
     "Region": "Marlborough",
     "Section": "Queen Charlotte Track",
     "Location": "Queen Charlotte Tk (Torea)",
     "Equipment": 100065284,
-    "FY": "2020/2021",
-    "Count": 7989,
-    "Change": "0.01",
-    "Prop": 0.35
+    "FY": "2019/2020",
+    "Count": 7894,
+    "Change": "-0.06",
+    "Prop": 0.82
   },
   {
     "id": 93,
-    "Region": "Southland",
-    "Section": "Long Hilly Track",
-    "Location": "Round Hill Walking Track",
-    "Equipment": 100057063,
-    "FY": "2007/2008",
-    "Count": 4043,
-    "Change": "N/A",
-    "Prop": 0.09
+    "Region": "Marlborough",
+    "Section": "Queen Charlotte Track",
+    "Location": "Queen Charlotte Tk (Torea)",
+    "Equipment": 100065284,
+    "FY": "2020/2021",
+    "Count": 8260,
+    "Change": "0.05",
+    "Prop": 0.59
   },
   {
     "id": 94,
@@ -1028,10 +1028,10 @@
     "Section": "Long Hilly Track",
     "Location": "Round Hill Walking Track",
     "Equipment": 100057063,
-    "FY": "2008/2009",
-    "Count": 3822,
-    "Change": "-0.05",
-    "Prop": 1
+    "FY": "2007/2008",
+    "Count": 4124,
+    "Change": "N/A",
+    "Prop": 0.09
   },
   {
     "id": 95,
@@ -1039,13 +1039,24 @@
     "Section": "Long Hilly Track",
     "Location": "Round Hill Walking Track",
     "Equipment": 100057063,
+    "FY": "2008/2009",
+    "Count": 3822,
+    "Change": "-0.07",
+    "Prop": 1
+  },
+  {
+    "id": 96,
+    "Region": "Southland",
+    "Section": "Long Hilly Track",
+    "Location": "Round Hill Walking Track",
+    "Equipment": 100057063,
     "FY": "2009/2010",
-    "Count": 4091,
+    "Count": 4092,
     "Change": "0.07",
     "Prop": 0.98
   },
   {
-    "id": 96,
+    "id": 97,
     "Region": "Southland",
     "Section": "Long Hilly Track",
     "Location": "Round Hill Walking Track",
@@ -1056,29 +1067,29 @@
     "Prop": 0.99
   },
   {
-    "id": 97,
-    "Region": "Southland",
-    "Section": "Long Hilly Track",
-    "Location": "Round Hill Walking Track",
-    "Equipment": 100057063,
-    "FY": "2011/2012",
-    "Count": 3490,
-    "Change": "-0.12",
-    "Prop": 0.98
-  },
-  {
     "id": 98,
     "Region": "Southland",
     "Section": "Long Hilly Track",
     "Location": "Round Hill Walking Track",
     "Equipment": 100057063,
+    "FY": "2011/2012",
+    "Count": 3491,
+    "Change": "-0.12",
+    "Prop": 0.98
+  },
+  {
+    "id": 99,
+    "Region": "Southland",
+    "Section": "Long Hilly Track",
+    "Location": "Round Hill Walking Track",
+    "Equipment": 100057063,
     "FY": "2012/2013",
-    "Count": 2386,
+    "Count": 2385,
     "Change": "-0.32",
     "Prop": 0.8
   },
   {
-    "id": 99,
+    "id": 100,
     "Region": "Southland",
     "Section": "Long Hilly Track",
     "Location": "Round Hill Walking Track",
@@ -1089,7 +1100,7 @@
     "Prop": 1
   },
   {
-    "id": 100,
+    "id": 101,
     "Region": "Southland",
     "Section": "Long Hilly Track",
     "Location": "Round Hill Walking Track",
@@ -1100,26 +1111,15 @@
     "Prop": 1
   },
   {
-    "id": 101,
-    "Region": "Southland",
-    "Section": "Long Hilly Track",
-    "Location": "Round Hill Walking Track",
-    "Equipment": 100057063,
-    "FY": "2015/2016",
-    "Count": 3174,
-    "Change": "0.27",
-    "Prop": 0.98
-  },
-  {
     "id": 102,
     "Region": "Southland",
     "Section": "Long Hilly Track",
     "Location": "Round Hill Walking Track",
     "Equipment": 100057063,
-    "FY": "2016/2017",
-    "Count": 3187,
-    "Change": "0",
-    "Prop": 0.99
+    "FY": "2015/2016",
+    "Count": 3173,
+    "Change": "0.27",
+    "Prop": 0.98
   },
   {
     "id": 103,
@@ -1127,10 +1127,10 @@
     "Section": "Long Hilly Track",
     "Location": "Round Hill Walking Track",
     "Equipment": 100057063,
-    "FY": "2017/2018",
-    "Count": 3007,
-    "Change": "-0.06",
-    "Prop": 0.72
+    "FY": "2016/2017",
+    "Count": 3186,
+    "Change": "0",
+    "Prop": 0.99
   },
   {
     "id": 104,
@@ -1138,10 +1138,10 @@
     "Section": "Long Hilly Track",
     "Location": "Round Hill Walking Track",
     "Equipment": 100057063,
-    "FY": "2018/2019",
-    "Count": 2535,
-    "Change": "-0.16",
-    "Prop": 0
+    "FY": "2017/2018",
+    "Count": 2995,
+    "Change": "-0.06",
+    "Prop": 0.72
   },
   {
     "id": 105,
@@ -1149,9 +1149,9 @@
     "Section": "Long Hilly Track",
     "Location": "Round Hill Walking Track",
     "Equipment": 100057063,
-    "FY": "2019/2020",
-    "Count": 2445,
-    "Change": "-0.04",
+    "FY": "2018/2019",
+    "Count": 2486,
+    "Change": "-0.17",
     "Prop": 0
   },
   {
@@ -1160,9 +1160,20 @@
     "Section": "Long Hilly Track",
     "Location": "Round Hill Walking Track",
     "Equipment": 100057063,
-    "FY": "2020/2021",
-    "Count": 2374,
-    "Change": "-0.03",
+    "FY": "2019/2020",
+    "Count": 2390,
+    "Change": "-0.04",
     "Prop": 0
+  },
+  {
+    "id": 107,
+    "Region": "Southland",
+    "Section": "Long Hilly Track",
+    "Location": "Round Hill Walking Track",
+    "Equipment": 100057063,
+    "FY": "2020/2021",
+    "Count": 2342,
+    "Change": "-0.02",
+    "Prop": 0.47
   }
 ]

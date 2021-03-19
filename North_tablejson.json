@@ -28,7 +28,7 @@
     "Location": "Okura Bush Walkway",
     "Equipment": 100104366,
     "FY": "2018/2019",
-    "Count": 4800,
+    "Count": 4938,
     "Change": "N/A",
     "Prop": 0.26
   },
@@ -39,8 +39,8 @@
     "Location": "Okura Bush Walkway",
     "Equipment": 100104366,
     "FY": "2019/2020",
-    "Count": 9998,
-    "Change": "1.08",
+    "Count": 10026,
+    "Change": "1.03",
     "Prop": 0.84
   },
   {
@@ -50,9 +50,9 @@
     "Location": "Okura Bush Walkway",
     "Equipment": 100104366,
     "FY": "2020/2021",
-    "Count": 19108,
-    "Change": "0.91",
-    "Prop": 0.44
+    "Count": 16986,
+    "Change": "0.69",
+    "Prop": 0.53
   },
   {
     "id": 6,
@@ -292,7 +292,7 @@
     "Location": "Mangatepopo Track",
     "Equipment": 100093160,
     "FY": "2012/2013",
-    "Count": 5664,
+    "Count": 5670,
     "Change": "N/A",
     "Prop": 0.76
   },
@@ -369,7 +369,7 @@
     "Location": "Mangatepopo Track",
     "Equipment": 100093160,
     "FY": "2019/2020",
-    "Count": 8615,
+    "Count": 8599,
     "Change": "-0.05",
     "Prop": 0.94
   },
@@ -380,9 +380,9 @@
     "Location": "Mangatepopo Track",
     "Equipment": 100093160,
     "FY": "2020/2021",
-    "Count": 9266,
-    "Change": "0.08",
-    "Prop": 0.23
+    "Count": 8140,
+    "Change": "-0.05",
+    "Prop": 0.53
   },
   {
     "id": 36,
@@ -391,7 +391,7 @@
     "Location": "Waikanae Estuary Track",
     "Equipment": 100092930,
     "FY": "2011/2012",
-    "Count": 23449,
+    "Count": 23490,
     "Change": "N/A",
     "Prop": 0.11
   },
@@ -402,7 +402,7 @@
     "Location": "Waikanae Estuary Track",
     "Equipment": 100092930,
     "FY": "2012/2013",
-    "Count": 24383,
+    "Count": 24384,
     "Change": "0.04",
     "Prop": 0.56
   },
@@ -490,9 +490,9 @@
     "Location": "Waikanae Estuary Track",
     "Equipment": 100092930,
     "FY": "2020/2021",
-    "Count": 44219,
-    "Change": "-0.01",
-    "Prop": 0.44
+    "Count": 43683,
+    "Change": "-0.02",
+    "Prop": 0.54
   },
   {
     "id": 46,
@@ -501,7 +501,7 @@
     "Location": "Waterworks Walk",
     "Equipment": 100092816,
     "FY": "2011/2012",
-    "Count": 79659,
+    "Count": 114138,
     "Change": "N/A",
     "Prop": 0.31
   },
@@ -512,8 +512,8 @@
     "Location": "Waterworks Walk",
     "Equipment": 100092816,
     "FY": "2012/2013",
-    "Count": 52778,
-    "Change": "-0.34",
+    "Count": 52916,
+    "Change": "-0.54",
     "Prop": 1
   },
   {
@@ -523,8 +523,8 @@
     "Location": "Waterworks Walk",
     "Equipment": 100092816,
     "FY": "2013/2014",
-    "Count": 123153,
-    "Change": "1.33",
+    "Count": 127278,
+    "Change": "1.41",
     "Prop": 0.71
   },
   {
@@ -534,8 +534,8 @@
     "Location": "Waterworks Walk",
     "Equipment": 100092816,
     "FY": "2014/2015",
-    "Count": 247811,
-    "Change": "1.01",
+    "Count": 247850,
+    "Change": "0.95",
     "Prop": 0.99
   },
   {
@@ -589,9 +589,9 @@
     "Location": "Waterworks Walk",
     "Equipment": 100092816,
     "FY": "2019/2020",
-    "Count": 344914,
-    "Change": "0.41",
-    "Prop": 0.16
+    "Count": 149548,
+    "Change": "-0.39",
+    "Prop": 0.93
   },
   {
     "id": 55,
@@ -600,9 +600,9 @@
     "Location": "Waterworks Walk",
     "Equipment": 100092816,
     "FY": "2020/2021",
-    "Count": 350891,
-    "Change": "0.02",
-    "Prop": 0.22
+    "Count": 120338,
+    "Change": "-0.2",
+    "Prop": 0.53
   },
   {
     "id": 56,
@@ -941,7 +941,7 @@
     "Location": "Dome Tk (Lookout)",
     "Equipment": 100073032,
     "FY": "2007/2008",
-    "Count": 5247,
+    "Count": 5265,
     "Change": "N/A",
     "Prop": 0.14
   },
@@ -953,7 +953,7 @@
     "Equipment": 100073032,
     "FY": "2008/2009",
     "Count": 6231,
-    "Change": "0.19",
+    "Change": "0.18",
     "Prop": 1
   },
   {
@@ -985,7 +985,7 @@
     "Location": "Dome Tk (Lookout)",
     "Equipment": 100073032,
     "FY": "2011/2012",
-    "Count": 5637,
+    "Count": 5639,
     "Change": "0.04",
     "Prop": 0.87
   },
@@ -1029,7 +1029,7 @@
     "Location": "Dome Tk (Lookout)",
     "Equipment": 100073032,
     "FY": "2015/2016",
-    "Count": 11284,
+    "Count": 11283,
     "Change": "0.17",
     "Prop": 1
   },
@@ -1040,8 +1040,8 @@
     "Location": "Dome Tk (Lookout)",
     "Equipment": 100073032,
     "FY": "2016/2017",
-    "Count": 10916,
-    "Change": "-0.03",
+    "Count": 10855,
+    "Change": "-0.04",
     "Prop": 0.29
   },
   {
@@ -1051,8 +1051,8 @@
     "Location": "Dome Tk (Lookout)",
     "Equipment": 100073032,
     "FY": "2017/2018",
-    "Count": 13476,
-    "Change": "0.23",
+    "Count": 13475,
+    "Change": "0.24",
     "Prop": 0.94
   },
   {
@@ -1062,7 +1062,7 @@
     "Location": "Dome Tk (Lookout)",
     "Equipment": 100073032,
     "FY": "2018/2019",
-    "Count": 13269,
+    "Count": 13213,
     "Change": "-0.02",
     "Prop": 0.63
   },
@@ -1073,7 +1073,7 @@
     "Location": "Dome Tk (Lookout)",
     "Equipment": 100073032,
     "FY": "2019/2020",
-    "Count": 11898,
+    "Count": 11897,
     "Change": "-0.1",
     "Prop": 0.99
   },
@@ -1084,9 +1084,9 @@
     "Location": "Dome Tk (Lookout)",
     "Equipment": 100073032,
     "FY": "2020/2021",
-    "Count": 13317,
-    "Change": "0.12",
-    "Prop": 0.46
+    "Count": 12738,
+    "Change": "0.07",
+    "Prop": 0.52
   },
   {
     "id": 100,
@@ -1095,7 +1095,7 @@
     "Location": "Mangawhai Walkway",
     "Equipment": 100057473,
     "FY": "2006/2007",
-    "Count": 10674,
+    "Count": 10715,
     "Change": "N/A",
     "Prop": 0.05
   },
@@ -1128,8 +1128,8 @@
     "Location": "Mangawhai Walkway",
     "Equipment": 100057473,
     "FY": "2009/2010",
-    "Count": 14459,
-    "Change": "0.13",
+    "Count": 14428,
+    "Change": "0.12",
     "Prop": 0.79
   },
   {
@@ -1227,7 +1227,7 @@
     "Location": "Mangawhai Walkway",
     "Equipment": 100057473,
     "FY": "2018/2019",
-    "Count": 23774,
+    "Count": 23724,
     "Change": "-0.18",
     "Prop": 0.79
   },
@@ -1249,9 +1249,9 @@
     "Location": "Mangawhai Walkway",
     "Equipment": 100057473,
     "FY": "2020/2021",
-    "Count": 38436,
-    "Change": "0.35",
-    "Prop": 0.37
+    "Count": 36301,
+    "Change": "0.28",
+    "Prop": 0.62
   },
   {
     "id": 115,
