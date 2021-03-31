@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "Region": "Manawatu",
+    "Section": "National Park to Whanganui River",
+    "Location": "Mangapurua Track",
+    "Equipment": 100091333,
+    "FY": "2017/2018",
+    "Count": 1772,
+    "Change": "0.25",
+    "Prop": 1
+  },
+  {
+    "id": 2,
+    "Region": "Waikato",
+    "Section": "Pureora Forest - The Timber Trail",
+    "Location": "Timber Trail (No. 10 Camp)",
+    "Equipment": 100094235,
+    "FY": "2017/2018",
+    "Count": 7071,
+    "Change": "0.22",
+    "Prop": 1
+  },
+  {
+    "id": 3,
+    "Region": "Northland",
+    "Section": "Mangakaretu to Kerikeri",
+    "Location": "Kerkeri River Scenic Reserve Tk",
+    "Equipment": 100084734,
+    "FY": "2018/2019",
+    "Count": 20104,
+    "Change": "-0.27",
+    "Prop": 0
+  },
+  {
+    "id": 4,
+    "Region": "Auckland",
+    "Section": "Puhoi Track",
+    "Location": "Puhoi Valley Track",
+    "Equipment": 100122980,
+    "FY": "2018/2019",
+    "Count": 4575,
+    "Change": "N/A",
+    "Prop": 0.61
+  },
+  {
+    "id": 5,
+    "Region": "Wellington",
+    "Section": "Tararua Ranges",
+    "Location": "Waitewaewae Track",
+    "Equipment": 100033460,
+    "FY": "2019/2020",
+    "Count": 1454,
+    "Change": "-0.17",
+    "Prop": 1
+  },
+  {
+    "id": 6,
+    "Region": "Northland",
+    "Section": "Bream Tail Mangawhai Walkway",
+    "Location": "Mangawhai Walkway",
+    "Equipment": 100057473,
+    "FY": "2019/2020",
+    "Count": 28417,
+    "Change": "0.2",
+    "Prop": 1
+  },
+  {
+    "id": 7,
+    "Region": "Auckland",
+    "Section": "Govan Wilson to Puhoi Valley",
+    "Location": "Dome Tk (Lookout)",
+    "Equipment": 100073032,
+    "FY": "2019/2020",
+    "Count": 11897,
+    "Change": "-0.1",
+    "Prop": 0.99
+  },
+  {
+    "id": 8,
+    "Region": "Waikato",
+    "Section": "Pirongia Traverse",
+    "Location": "Hihikiwi Track",
+    "Equipment": 100088064,
+    "FY": "2019/2020",
+    "Count": 1877,
+    "Change": "0.19",
+    "Prop": 1
+  },
+  {
+    "id": 9,
+    "Region": "Waikato",
+    "Section": "Hakarimata Walkway",
+    "Location": "Waterworks Walk",
+    "Equipment": 100092816,
+    "FY": "2019/2020",
+    "Count": 149548,
+    "Change": "-0.39",
+    "Prop": 0.93
+  },
+  {
+    "id": 10,
+    "Region": "Wellington",
+    "Section": "Kapiti Coast",
+    "Location": "Waikanae Estuary Track",
+    "Equipment": 100092930,
+    "FY": "2019/2020",
+    "Count": 44591,
+    "Change": "0.19",
+    "Prop": 1
+  },
+  {
+    "id": 11,
+    "Region": "Whanganui",
+    "Section": "Mangatepopo to National Park",
+    "Location": "Mangatepopo Track",
+    "Equipment": 100093160,
+    "FY": "2019/2020",
+    "Count": 8599,
+    "Change": "-0.05",
+    "Prop": 0.94
+  },
+  {
+    "id": 12,
+    "Region": "Northland",
+    "Section": "Cape Reinga to Ahipara",
+    "Location": "Twilight Beach to Scotts Point Tk",
+    "Equipment": 100097152,
+    "FY": "2019/2020",
+    "Count": 2410,
+    "Change": "-0.19",
+    "Prop": 1
+  },
+  {
+    "id": 13,
+    "Region": "Northland",
+    "Section": "Russell Forest to Whangarei Heads",
+    "Location": "Te Whara Tk (Mt Lion End)",
+    "Equipment": 100097597,
+    "FY": "2019/2020",
+    "Count": 3434,
+    "Change": "-0.15",
+    "Prop": 1
+  },
+  {
+    "id": 14,
+    "Region": "Auckland",
+    "Section": "Okura to Long Bay",
+    "Location": "Okura Bush Walkway",
+    "Equipment": 100104366,
+    "FY": "2019/2020",
+    "Count": 10026,
+    "Change": "1.03",
+    "Prop": 0.84
+  }
+]
