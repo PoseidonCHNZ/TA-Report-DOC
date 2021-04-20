@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "Region": "Marlborough",
+    "Section": "Queen Charlotte Track",
+    "Location": "Queen Charlotte Tk (Torea)",
+    "Equipment": 100065284,
+    "FY": "2019/2020",
+    "Count": 7894,
+    "Change": -0.1,
+    "Prop": 0.82,
+    "datelast": "2021-02-03"
+  },
+  {
+    "id": 2,
+    "Region": "Tasman",
+    "Section": "Pelorus River Track",
+    "Location": "Pelorus Track",
+    "Equipment": 100132202,
+    "FY": "2019/2020",
+    "Count": 3868,
+    "Change": 1.1,
+    "Prop": 0.43,
+    "datelast": "2021-01-26"
+  },
+  {
+    "id": 3,
+    "Region": "Tasman",
+    "Section": "Richmond Alpine Track",
+    "Location": "Alpine Route, Richmond Range",
+    "Equipment": 100103061,
+    "FY": "2017/2018",
+    "Count": 418,
+    "Change": 0,
+    "Prop": 1,
+    "datelast": "2019-05-10"
+  },
+  {
+    "id": 4,
+    "Region": "Canterbury",
+    "Section": "Waiua Pass Track",
+    "Location": "Waiau Pass Route",
+    "Equipment": 100094054,
+    "FY": "2018/2019",
+    "Count": 563,
+    "Change": -0.2,
+    "Prop": 1,
+    "datelast": "2020-02-05"
+  },
+  {
+    "id": 5,
+    "Region": "Canterbury",
+    "Section": "Boyle to Arthur's Pass",
+    "Location": "Hope Kiwi Track",
+    "Equipment": 100093899,
+    "FY": "2019/2020",
+    "Count": 3765,
+    "Change": 0,
+    "Prop": 0.96,
+    "datelast": "2020-08-30"
+  },
+  {
+    "id": 6,
+    "Region": "Canterbury",
+    "Section": "Boyle to Arthur's Pass",
+    "Location": "Minga Track",
+    "Equipment": 100084749,
+    "FY": "2018/2019",
+    "Count": 2957,
+    "Change": 0.3,
+    "Prop": 1,
+    "datelast": "2020-01-07"
+  },
+  {
+    "id": 7,
+    "Region": "Southland",
+    "Section": "Mavora Walkway",
+    "Location": "Greenstone Track (Home Creek)",
+    "Equipment": 100081557,
+    "FY": "2019/2020",
+    "Count": 3004,
+    "Change": 0,
+    "Prop": 0,
+    "datelast": "2020-12-07"
+  },
+  {
+    "id": 8,
+    "Region": "Otago",
+    "Section": "Wakatipu Track",
+    "Location": "Lake Hayes Walkway",
+    "Equipment": 100081554,
+    "FY": "2019/2020",
+    "Count": 34054,
+    "Change": 0,
+    "Prop": 1,
+    "datelast": "2020-08-31"
+  },
+  {
+    "id": 9,
+    "Region": "Southland",
+    "Section": "Long Hilly Track",
+    "Location": "Round Hill Walking Track",
+    "Equipment": 100057063,
+    "FY": "2019/2020",
+    "Count": 2390,
+    "Change": -0,
+    "Prop": 0,
+    "datelast": "2021-01-07"
+  },
+  {
+    "id": 10,
+    "Region": "Southland",
+    "Section": "Invercargill to Bluff",
+    "Location": "Glory Track",
+    "Equipment": 100086425,
+    "FY": "2019/2020",
+    "Count": 9337,
+    "Change": 0.2,
+    "Prop": 1,
+    "datelast": "2020-07-24"
+  }
+]
